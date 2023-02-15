@@ -1,0 +1,145 @@
+{
+  "flag": true,
+  "data": {
+    "swiperList": [
+      {
+        "id": "01",
+        "src": "./static/images/swiper1.png"
+      },
+      {
+        "id": "02",
+        "src": "./static/images/swiper2.png"
+      },
+      {
+        "id": "03",
+        "src": "./static/images/swiper3.png"
+      },
+      {
+        "id": "04",
+        "src": "./static/images/swiper4.png"
+      }
+    ],
+    "iconList": [
+      {
+        "id": "01",
+        "src": "https://cdn.poizon.com/source-img/origin-img/20201225/503af155eb3c44fd87b404f4fef4707c.jpg?x-oss-process=image/format,webp",
+        "content": "新品频道"
+      },
+      {
+        "id": "02",
+        "src": "https://cdn.poizon.com/source-img/origin-img/20210113/0851ac32b424458584efb32c18f61f90.jpg?x-oss-process=image/format,webp",
+        "content": "品牌专区"
+      },
+      {
+        "id": "03",
+        "src": "https://cdn.poizon.com/source-img/origin-img/20201205/8b325405f45b4988851ab5fc20bbfad7.jpg?x-oss-process=image/format,webp",
+        "content": "Jordan篮球鞋"
+      },
+      {
+        "id": "04",
+        "src": "https://cdn.poizon.com/source-img/origin-img/20201205/a6ffc84c1ed84c75897a83bed9a220dc.jpg?x-oss-process=image/format,webp",
+        "content": "Nike"
+      },
+      {
+        "id": "05",
+        "src": "https://cdn.poizon.com/source-img/origin-img/20201205/4881aa39d2c54d60976983fe3da1c749.jpg?x-oss-process=image/format,webp",
+        "content": "长袖T恤"
+      },
+      {
+        "id": "06",
+        "src": "https://cdn.poizon.com/source-img/origin-img/20201205/b54d6c277cd8451fa6d3856352e768e0.jpg?x-oss-process=image/format,webp",
+        "content": "联系我们"
+      },
+      {
+        "id": "07",
+        "src": "https://cdn.poizon.com/source-img/origin-img/20201205/4a438b9db787497eb7ac499f06adb8e6.jpg?x-oss-process=image/format,webp",
+        "content": "联系我们"
+      },
+      {
+        "id": "08",
+        "src": "https://cdn.poizon.com/pro-img/origin-img/20210318/f220ef0aee2347749e0a175af069d268.jpg?x-oss-process=image/format,webp",
+        "content": "联系我们"
+      },
+      {
+        "id": "09",
+        "src": "https://cdn.poizon.com/source-img/origin-img/20201205/b54d6c277cd8451fa6d3856352e768e0.jpg?x-oss-process=image/format,webp",
+        "content": "联系我们"
+      },
+      {
+        "id": "10",
+        "src": "https://cdn.poizon.com/source-img/origin-img/20201204/382e071d81fc4b2b89e26dbf321c3b90.jpg?x-oss-process=image/format,webp",
+        "content": "联系我们"
+      },
+      {
+        "id": "11",
+        "src": "https://cdn.poizon.com/pro-img/origin-img/20210220/09deb209bed24d6b8ceaf3e5ec5f8c38.jpg?x-oss-process=image/format,webp",
+        "content": "联系我们"
+      },
+      {
+        "id": "12",
+        "src": "https://cdn.poizon.com/source-img/origin-img/20201204/734b5d3305d8468395980cbefc8cf307.jpg?x-oss-process=image/format,webp",
+        "content": "联系我们"
+      },
+      {
+        "id": "13",
+        "src": "https://cdn.poizon.com/source-img/origin-img/20201204/1cf2bf46ddfc4062b17ff7d01b439950.jpg?x-oss-process=image/format,webp",
+        "content": "联系我们"
+      },
+      {
+        "id": "14",
+        "src": "https://cdn.poizon.com/pro-img/origin-img/20210415/9331e15fe4e64b44a3f957c163cf9f00.jpg?x-oss-process=image/format,webp",
+        "content": "联系我们"
+      },
+      {
+        "id": "15",
+        "src": "https://cdn.poizon.com/pro-img/origin-img/20210415/9331e15fe4e64b44a3f957c163cf9f00.jpg?x-oss-process=image/format,webp",
+        "content": "联系我们"
+      },
+      {
+        "id": "16",
+        "src": "https://cdn.poizon.com/pro-img/origin-img/20210127/ec20e56be8074700aa89c1f073c7a031.jpg?x-oss-process=image/format,webp",
+        "content": "联系我们"
+      },
+      {
+        "id": "17",
+        "src": "https://cdn.poizon.com/source-img/origin-img/20201204/734b5d3305d8468395980cbefc8cf307.jpg?x-oss-process=image/format,webp",
+        "content": "联系我们"
+      },
+      {
+        "id": "18",
+        "src": "https://cdn.poizon.com/source-img/origin-img/20201204/1cf2bf46ddfc4062b17ff7d01b439950.jpg?x-oss-process=image/format,webp",
+        "content": "联系我们"
+      },
+      {
+        "id": "19",
+        "src": "https://cdn.poizon.com/pro-img/origin-img/20210415/9331e15fe4e64b44a3f957c163cf9f00.jpg?x-oss-process=image/format,webp",
+        "content": "联系我们"
+      },
+      {
+        "id": "20",
+        "src": "https://cdn.poizon.com/pro-img/origin-img/20210415/9331e15fe4e64b44a3f957c163cf9f00.jpg?x-oss-process=image/format,webp",
+        "content": "联系我们"
+      }
+    ],
+    "imageList": [
+      {"id": "0","name": "【618推荐】【虞书欣同款】Nike Air Force 1 07 low 空军一号 白色 板鞋 (GS)","money": "699","payment": "12891","src": "https://cdn.poizon.com/source-img/origin-img/20201225/503af155eb3c44fd87b404f4fef4707c.jpg?x-oss-process=image/format,webp"},
+      {"id": "1","name": "I'M ONE x 海绵宝宝 联名款 毛巾贴布绣简约纯色短袖T恤 情侣款 2件装","money": "159","payment": "12891","src": "https://cdn.poizon.com/pro-img/origin-img/20210204/05c0914c2c124b4d9dfe1f13711814b5.jpg?x-oss-process=image/format,webp"},
+      {"id": "2","name": "【618贵就赔】NNOVA 监控摄像头字母印花短袖T恤 男女同款","money": "99","payment": "12891","src": "https://cdn.poizon.com/pro-img/origin-img/20210606/983592b1c573473092ee168a8d40bb0e.jpg?x-oss-process=image/format,webp"},
+      {"id": "3","name": "【618贵就赔】LBPC 满印小熊发泡印花短袖T恤 情侣款","money": "123","payment": "12891","src": "https://cdn.poizon.com/pro-img/origin-img/20210127/6c5eb0c35ac14d24bec08717e4089336.jpg?x-oss-process=image/format,webp"},
+      {"id": "4","name": "【618贵就赔】【鞠婧祎同款】APEA 爱心印花阔腿牛仔裤 女款","money": "185","payment": "12891","src": "https://cdn.poizon.com/pro-img/origin-img/20210329/fdcd5d296dc047a5807046e6ba32c1dc.jpg?x-oss-process=image/format,webp"},
+      {"id": "5","name": "【宋亚轩同款】LBPC x UHI 联名款 雪山字母印花短袖T恤 男女同款","money": "156","payment": "12891","src": "https://cdn.poizon.com/pro-img/origin-img/20210427/c4cadaef09f2489ab2ecf0b972ce5137.jpg?x-oss-process=image/format,webp"},
+      {"id": "6","name": "【BLACKPINK Rosé 同款】adidas originals Adibreak Pant 侧边暗扣运动裤 女款 黑色","money": "158","payment": "12891","src": "https://cdn.poizon.com/pro-img/origin-img/20210209/3da6d9e977004fdf895a81e32f69cf0f.jpg?x-oss-process=image/format,webp"},
+      {"id": "7","name": "【品牌专供】【李现同款】PHILIPS飞利浦 S1000系列 全身水洗干湿双剃 自动剃须刀 s1103/s1203","money": "119","payment": "12891","src": "https://cdn.poizon.com/pro-img/origin-img/20210127/6fa2f85b53ba423eb4c95054a26e70f8.jpg?x-oss-process=image/format,webp"},
+      {"id": "8","name": "【618好价】adidas originals Superstar J 白黑","money": "899","payment": "12891","src": "https://cdn.poizon.com/source-img/origin-img/20210113/0851ac32b424458584efb32c18f61f90.jpg?x-oss-process=image/format,webp"},
+      {"id": "9","name": "【618推荐】【王源同款】Nike Air Monarch 4 White Navy 老爹鞋 蓝白 男女同款","money": "455","payment": "12891","src": "https://cdn.poizon.com/source-img/origin-img/20201205/8b325405f45b4988851ab5fc20bbfad7.jpg?x-oss-process=image/format,webp"},
+      {"id": "10","name": "【品牌专供】Champion 经典蓝字徽标印花短袖T恤 美版 男女同款 白色","money": "159","payment": "12891","src": "https://cdn.poizon.com/pro-img/origin-img/20210318/f220ef0aee2347749e0a175af069d268.jpg?x-oss-process=image/format,webp"},
+      {"id": "11","name": "【618推荐】SK-II 神仙水精华护肤套装 5件套","money": "566","payment": "12891","src": "https://cdn.poizon.com/source-img/origin-img/20201204/f8ab7647ccb7421a877b86a498c0a62d.jpg?x-oss-process=image/format,webp"},
+      {"id": "12","name": "【618李佳琦推荐】【杨幂同款】ESTEE LAUDER 雅诗兰黛 Double Wear DW持妆粉底液 30ml","money": "230","payment": "12891","src": "https://cdn.poizon.com/source-img/origin-img/20201204/92dc9cf9031a4003a977ec7bf15f694c.jpg?x-oss-process=image/format,webp"},
+      {"id": "13","name": "【618推荐】【张艺兴代言】MAC 魅可 子弹头口红 3g  ","money": "156","payment": "12891","src": "https://cdn.poizon.com/source-img/origin-img/20201204/402edb7e48b44933a472a1accc3833be.jpg?x-oss-process=image/format,webp"},
+      {"id": "14","name": "【618爆款推荐】MLB Monogram系列 NY纽约洋基队提花单肩斜挎包子母包 牛仔蓝","money": "159","payment": "12891","src": "https://cdn.poizon.com/source-img/origin-img/20201205/646aefda44ab4dfab21e4a2a9c7642b5.jpg?x-oss-process=image/format,webp"},
+      {"id": "15","name": "【618推荐】【女友必备】CASIO 卡西欧 BABY-G 冰淇淋 马卡龙色系 运动防水潮流时尚手表 白色 日韩表 女款 BA-110RG-7APR","money": "850","payment": "12891","src": "https://cdn.poizon.com/source-img/origin-img/20201204/118c903574244c5ab99d5b758eb842fd.jpg?x-oss-process=image/format,webp"},
+      {"id": "16","name": "Porsche 保时捷 911 Carrera Cabriolet 白色（上海）","money": "1320000","payment": "0","src": "https://cdn.poizon.com/pro-img/origin-img/20210415/9331e15fe4e64b44a3f957c163cf9f00.jpg?x-oss-process=image/format,webp"},
+      {"id": "17","name": "Lamborghini 兰博基尼 Huracán EVO RWD Spyder  金属黄色（北京）","money": "1546520","payment": "0","src": "https://cdn.poizon.com/pro-img/origin-img/20210127/ec20e56be8074700aa89c1f073c7a031.jpg?x-oss-process=image/format,webp"}
+    ]
+  }
+}

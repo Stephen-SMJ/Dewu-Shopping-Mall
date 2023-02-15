@@ -1,0 +1,79 @@
+{
+  "id": "2599126",
+  "name": "dewu",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "14975808",
+      "name": "喜欢关注赞",
+      "font_class": "xihuanguanzhuzan",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "705657",
+      "name": "踩",
+      "font_class": "cai",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "705698",
+      "name": "赞",
+      "font_class": "zan",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "14975757",
+      "name": "关注",
+      "font_class": "guanzhu",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "485763",
+      "name": "收 藏",
+      "font_class": "shoucang",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "14560723",
+      "name": "消息",
+      "font_class": "xiaoxi3",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "5677554",
+      "name": "动态",
+      "font_class": "dongtai1",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "8351822",
+      "name": "购物车",
+      "font_class": "gouwuche1",
+      "unicode": "e69e",
+      "unicode_decimal": 59038
+    },
+    {
+      "icon_id": "6534729",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "9699780",
+      "name": "购物",
+      "font_class": "gouwu",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    }
+  ]
+}

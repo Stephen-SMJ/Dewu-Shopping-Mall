@@ -1,0 +1,44 @@
+{
+  "id": "2599126",
+  "name": "dewu",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "14560723",
+      "name": "消息",
+      "font_class": "xiaoxi3",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "5677554",
+      "name": "动态",
+      "font_class": "dongtai1",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "8351822",
+      "name": "购物车",
+      "font_class": "gouwuche1",
+      "unicode": "e69e",
+      "unicode_decimal": 59038
+    },
+    {
+      "icon_id": "6534729",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "9699780",
+      "name": "购物",
+      "font_class": "gouwu",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    }
+  ]
+}

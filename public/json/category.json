@@ -1,0 +1,183 @@
+{
+  "flag": true,
+  "data": {
+    "menus":[
+      {
+        "id":"1",
+        "name":"推荐",
+        "sub":[
+          {
+            "pid":1,
+            "id":"11",
+            "name":"小米",
+            "imgUrl":"https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i3/2928765399/O1CN0123rpfN1pkn2BUBgFK_!!2928765399.jpg_430x430q90.jpg"
+          },
+          {
+            "pid":1,
+            "id":"12",
+            "name":"华为",
+            "imgUrl":"https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i3/2928765399/O1CN0123rpfN1pkn2BUBgFK_!!2928765399.jpg_430x430q90.jpg"
+          },
+          {
+            "pid":1,
+            "id":"13",
+            "name":"苹果",
+            "imgUrl":"https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i3/2928765399/O1CN0123rpfN1pkn2BUBgFK_!!2928765399.jpg_430x430q90.jpg"
+          },
+          {
+            "pid":1,
+            "id":"14",
+            "name":"鸿蒙",
+            "imgUrl":"https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i3/2928765399/O1CN0123rpfN1pkn2BUBgFK_!!2928765399.jpg_430x430q90.jpg"
+          },
+          {
+            "pid":1,
+            "id":"15",
+            "name":"三星",
+            "imgUrl":"https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i3/2928765399/O1CN0123rpfN1pkn2BUBgFK_!!2928765399.jpg_430x430q90.jpg"
+          },
+          {
+            "pid":1,
+            "id":"16",
+            "name":"中兴",
+            "imgUrl":"https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i3/2928765399/O1CN0123rpfN1pkn2BUBgFK_!!2928765399.jpg_430x430q90.jpg"
+          }
+
+        ],
+        "pid":0
+      },
+      {
+        "id":"2",
+        "name":"主题",
+        "sub":[
+          {
+            "pid":1,
+            "id":"21",
+            "name":"西门子",
+            "imgUrl":"https://img.alicdn.com/imgextra/i4/20201002/O1CN01XAPz5J1JGxXeVLh2O_!!0-saturn_solar.jpg_468x468q75.jpg_.webp"
+          },
+          {
+            "pid":1,
+            "id":"22",
+            "name":"三星",
+            "imgUrl":"https://img.alicdn.com/imgextra/i4/20201002/O1CN01XAPz5J1JGxXeVLh2O_!!0-saturn_solar.jpg_468x468q75.jpg_.webp"
+          },
+          {
+            "pid":1,
+            "id":"23",
+            "name":"小米",
+            "imgUrl":"https://img.alicdn.com/imgextra/i4/20201002/O1CN01XAPz5J1JGxXeVLh2O_!!0-saturn_solar.jpg_468x468q75.jpg_.webp"
+          },
+          {
+            "pid":1,
+            "id":"24",
+            "name":"长虹",
+            "imgUrl":"https://img.alicdn.com/imgextra/i4/20201002/O1CN01XAPz5J1JGxXeVLh2O_!!0-saturn_solar.jpg_468x468q75.jpg_.webp"
+          }
+        ],
+        "pid":0
+      },
+      {
+        "id":"3",
+        "name":"品牌",
+        "sub":[
+          {
+            "pid":1,
+            "id":"31",
+            "name":"联想",
+            "imgUrl":"https://img.alicdn.com/imgextra/i3/1353150026/O1CN01aHhU6x1C3wwTiSpOs_!!0-saturn_solar.jpg_468x468q75.jpg_.webp"
+          },
+          {
+            "pid":1,
+            "id":"32",
+            "name":"小米",
+            "imgUrl":"https://img.alicdn.com/imgextra/i3/1353150026/O1CN01aHhU6x1C3wwTiSpOs_!!0-saturn_solar.jpg_468x468q75.jpg_.webp"
+          },
+          {
+            "pid":1,
+            "id":"33",
+            "name":"神舟",
+            "imgUrl":"https://img.alicdn.com/imgextra/i3/1353150026/O1CN01aHhU6x1C3wwTiSpOs_!!0-saturn_solar.jpg_468x468q75.jpg_.webp"
+          },
+          {
+            "pid":1,
+            "id":"34",
+            "name":"华为",
+            "imgUrl":"https://img.alicdn.com/imgextra/i3/1353150026/O1CN01aHhU6x1C3wwTiSpOs_!!0-saturn_solar.jpg_468x468q75.jpg_.webp"
+          }
+        ],
+        "pid":0
+      },
+      {
+        "id":"4",
+        "name":"系列",
+        "sub":[
+          {
+            "pid":1,
+            "id":"35",
+            "name":"兰博基尼",
+            "imgUrl":"https://img.alicdn.com/imgextra/i2/1092390011/O1CN01NptNMl1Bx4yfWtVBZ_!!2-saturn_solar.png_468x468q75.jpg_.webp"
+          }
+        ],
+        "pid":0
+      },
+      {
+        "id":"5",
+        "name":"潮鞋",
+        "sub":[{
+          "pid": 1,
+          "id": "36",
+          "name": "衬衫",
+          "imgUrl": "https://img.alicdn.com/imgextra/i4/132164797/O1CN01Bv9dWw1lJ4bPN7wsd_!!0-saturn_solar.jpg_468x468q75.jpg_.webp"
+        }],
+        "pid":0
+      },
+      {
+        "id":"6",
+        "name":"潮服",
+        "sub":[{
+          "pid": 1,
+          "id": "37",
+          "name": "长裙",
+          "imgUrl": "https://img.alicdn.com/imgextra/i3/454970133/O1CN01SbhfTJ1CqxMMe1jZ1_!!0-saturn_solar.jpg_468x468q75.jpg_.webp"
+        }],
+        "pid":0
+      },
+      {
+        "id":"7",
+        "name":"箱包",
+        "sub":[{
+          "pid": 1,
+          "id": "38",
+          "name": "I DO",
+          "imgUrl": "https://img.alicdn.com/imgextra/i4/117233996/O1CN011FkbVG1fODMZiP2Rc_!!0-saturn_solar.jpg_468x468q75.jpg_.webp"
+        }],
+        "pid":0
+      },
+      {
+        "id":"8",
+        "name":"美妆",
+        "sub":[{
+          "pid": 1,
+          "id": "38",
+          "name": "帆布",
+          "imgUrl": "https://img.alicdn.com/imgextra/i1/50688357/O1CN01udNkjJ2BbYYzY471V_!!0-saturn_solar.jpg_468x468q75.jpg_.webp"
+        }],
+        "pid":0
+      },
+      {
+        "id":"9",
+        "name":"配饰",
+        "sub":[{
+          "pid": 1,
+          "id": "39",
+          "name": "帆布",
+          "imgUrl": "https://img.alicdn.com/imgextra/i1/50688357/O1CN01udNkjJ2BbYYzY471V_!!0-saturn_solar.jpg_468x468q75.jpg_.webp"
+        }],
+        "pid":0
+      }
+    ]
+
+  }
+
+}
